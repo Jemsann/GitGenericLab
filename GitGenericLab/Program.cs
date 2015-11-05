@@ -12,6 +12,7 @@ namespace GitGenericLab
 		{
 			Console.WriteLine("Hej");
 			Console.WriteLine();
+			Console.WriteLine();
 		}
 	}
 }
