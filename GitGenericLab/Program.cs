@@ -11,6 +11,7 @@ namespace GitGenericLab
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hej");
+			Console.WriteLine();
 		}
 	}
 }
